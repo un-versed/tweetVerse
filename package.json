@@ -1,0 +1,26 @@
+{
+    "name": "tweetverse",
+    "version": "1.0.0",
+    "description": "A bot for automatic mention on twitter.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/un-versed/tweetVerse.git"
+    },
+    "keywords": [
+        "Twitter"
+    ],
+    "author": "Gustavo Henrique (Unversed)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/un-versed/tweetVerse/issues"
+    },
+    "homepage": "https://github.com/un-versed/tweetVerse#readme",
+    "dependencies": {
+        "crawler": "^1.0.5",
+        "twitter": "^1.7.1"
+    }
+}
