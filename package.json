@@ -1,6 +1,6 @@
 {
     "name": "tweetverse",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "A bot for automatic mention on twitter.",
     "main": "app.js",
     "scripts": {
