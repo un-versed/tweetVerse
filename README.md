@@ -3,12 +3,12 @@
 
 # Install
 
-`npm install tweetVerse --save`
+`npm install tweetverse --save`
 
 # Usage
 
 ```
-const tweetVerse = require('tweetVerse');
+const tweetVerse = require('tweetverse');
 
 tweetVerse.crawl({
     config: {
@@ -32,7 +32,7 @@ tweetVerse.crawl({
 # Example
 
 ```
-const tweetVerse = require('tweetVerse');
+const tweetVerse = require('tweetverse');
 
 tweetVerse.crawl({
     config: {
